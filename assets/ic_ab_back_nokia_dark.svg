@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ic_ab_back_nokia_dark.svg"
+   inkscape:export-filename="../res/drawable-xhdpi/ic_ab_back_nokia_dark.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="65.014559"
+     inkscape:cy="67.168677"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1871"
+     inkscape:window-height="1056"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36215)">
+    <rect
+       style="opacity:0.75;fill:#999999;fill-opacity:1;stroke:none"
+       id="rect2985-0"
+       width="28"
+       height="7"
+       x="-762.12805"
+       y="680.88184"
+       rx="3.5"
+       ry="3.5"
+       inkscape:transform-center-x="-7.4246376"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+       inkscape:transform-center-y="-7.4246676" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="M 39.78125 13.4375 C 39.014393 13.4375 38.243856 13.724894 37.65625 14.3125 L 22.09375 29.875 C 20.918539 31.050211 20.918539 32.949789 22.09375 34.125 L 37.65625 49.6875 C 38.831461 50.862711 40.731039 50.862711 41.90625 49.6875 C 43.081461 48.512289 43.081461 46.612711 41.90625 45.4375 L 28.46875 32 L 41.90625 18.5625 C 43.081461 17.387289 43.081461 15.487711 41.90625 14.3125 C 41.318644 13.724894 40.548107 13.4375 39.78125 13.4375 z "
+       transform="translate(0,988.36215)"
+       id="rect2985-0-2" />
+    <rect
+       style="opacity:0.75;fill:#999999;fill-opacity:1;stroke:none"
+       id="rect2985-0-7"
+       width="28"
+       height="7"
+       x="680.8819"
+       y="755.12805"
+       rx="3.5"
+       ry="3.5"
+       inkscape:transform-center-x="-7.4246808"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+       inkscape:transform-center-y="7.4246162" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 39.421875,1002.0199 c -0.894667,0 -1.78321,0.3457 -2.46875,1.0312 l -14.84375,14.8438 c -1.37108,1.3711 -1.37108,3.5664 0,4.9375 l 14.84375,14.8438 c 1.37108,1.371 3.56642,1.371 4.9375,0 1.37108,-1.3711 1.37108,-3.5665 0,-4.9375 l -12.375,-12.3751 12.375,-12.375 c 1.37108,-1.371 1.37108,-3.5664 0,-4.9375 -0.68554,-0.6855 -1.574083,-1.0312 -2.46875,-1.0312 z"
+       id="rect2985-0-79"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

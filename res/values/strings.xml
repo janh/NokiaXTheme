@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nokia X Theme</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_dummy">Dummy</string>
+    <string name="toast_clicked">You clicked on a dummy button.</string>
+    <string name="description" formatted="false">
+        This is a sample app showing you how to use a custom theme on the Nokia X platform.
+        \n\nThe theme is selected at runtime, so a single codebase can be used for Nokia X and other Android devices.
+        \n\nYou are on page %s of 3.
+    </string>
+
+</resources>
