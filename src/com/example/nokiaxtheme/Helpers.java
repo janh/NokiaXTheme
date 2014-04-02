@@ -16,11 +16,11 @@ public class Helpers {
 	 * @param c  context, e.g. an Application or Activity
 	 */
 	public static void setTheme(Context c) {
-		//if (!Build.MANUFACTURER.toLowerCase(Locale.US).contains("nokia")) {
-		//	c.setTheme(R.style.AppTheme);
-		//} else {
+		if (!Build.MANUFACTURER.toLowerCase(Locale.US).contains("nokia")) {
+			c.setTheme(R.style.AppTheme);
+		} else {
 			c.setTheme(R.style.AppTheme_Nokia);
-		//}
+		}
 	}
 	
 }
