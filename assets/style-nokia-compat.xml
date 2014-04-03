@@ -62,19 +62,15 @@
         <item name="android:textColor">@color/ab_tab_text_nokia_dark</item>
     </style>
     <!-- Define tab colors. -->
-    <color name="ab_tab_bg_nokia">#00000000</color>
-    <color name="ab_tab_bg_selected_nokia">#1a1a1a</color>
-    <color name="ab_tab_bg_pressed_nokia">#333</color>
-    <color name="ab_tab_bg_focused_nokia">#222</color>
+    <color name="ab_tab_bg_nokia_dark">#00000000</color>
+    <color name="ab_tab_bg_selected_nokia_dark">#1a1a1a</color>
+    <color name="ab_tab_bg_pressed_nokia_dark">#333</color>
+    <color name="ab_tab_bg_focused_nokia_dark">#444</color>
     
     <!-- ListView theme. -->
     <style name="AppTheme.Nokia.ListView" parent="@android:style/Widget.Holo.ListView">
         <!-- Disable list divider. -->
         <item name="android:divider">@null</item>
     </style>
-    
-    
-    <!-- Theme for other Android devices. -->
-    <style name="AppTheme" parent="@style/Theme.AppCompat"></style>
 
 </resources>

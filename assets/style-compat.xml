@@ -1,0 +1,12 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Theme for other Android devices. -->
+    <style name="AppTheme" parent="@style/Theme.AppCompat"></style>
+
+    <!-- Light theme for other Android devices. -->
+    <style name="AppTheme.Light" parent="@style/Theme.AppCompat.Light"></style>
+
+    <!-- Light theme with dark action bar for other Android devices. -->
+    <style name="AppTheme.Light.DarkActionBar" parent="@style/Theme.AppCompat.Light.DarkActionBar"></style>
+
+</resources>

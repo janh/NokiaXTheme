@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android" >
-    <item android:state_focused="false" android:state_selected="false" android:state_pressed="false" android:drawable="@color/ab_tab_bg_nokia" />
-    <item android:state_focused="false" android:state_selected="true" android:state_pressed="false" android:drawable="@color/ab_tab_bg_selected_nokia" />
-    <item android:state_focused="true" android:state_selected="false" android:state_pressed="false" android:drawable="@color/ab_tab_bg_focused_nokia" />
-    <item android:state_focused="true" android:state_selected="true" android:state_pressed="false" android:drawable="@color/ab_tab_bg_focused_nokia" />
-    <item android:state_focused="false" android:state_selected="false" android:state_pressed="true" android:drawable="@color/ab_tab_bg_pressed_nokia" />
-    <item android:state_focused="false" android:state_selected="true" android:state_pressed="true" android:drawable="@color/ab_tab_bg_pressed_nokia" />
-    <item android:state_focused="true" android:state_selected="false" android:state_pressed="true" android:drawable="@color/ab_tab_bg_pressed_nokia" />
-    <item android:state_focused="true" android:state_selected="true" android:state_pressed="true" android:drawable="@color/ab_tab_bg_pressed_nokia" />
+    <item android:state_focused="false" android:state_selected="false" android:state_pressed="false" android:drawable="@color/ab_tab_bg_nokia_dark" />
+    <item android:state_focused="false" android:state_selected="true" android:state_pressed="false" android:drawable="@color/ab_tab_bg_selected_nokia_dark" />
+    <item android:state_focused="true" android:state_selected="false" android:state_pressed="false" android:drawable="@color/ab_tab_bg_focused_nokia_dark" />
+    <item android:state_focused="true" android:state_selected="true" android:state_pressed="false" android:drawable="@color/ab_tab_bg_focused_nokia_dark" />
+    <item android:state_focused="false" android:state_selected="false" android:state_pressed="true" android:drawable="@color/ab_tab_bg_pressed_nokia_dark" />
+    <item android:state_focused="false" android:state_selected="true" android:state_pressed="true" android:drawable="@color/ab_tab_bg_pressed_nokia_dark" />
+    <item android:state_focused="true" android:state_selected="false" android:state_pressed="true" android:drawable="@color/ab_tab_bg_pressed_nokia_dark" />
+    <item android:state_focused="true" android:state_selected="true" android:state_pressed="true" android:drawable="@color/ab_tab_bg_pressed_nokia_dark" />
 </selector>
