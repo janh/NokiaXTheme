@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
+   width="32"
    height="64"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ic_ab_back_nokia_light.svg"
-   inkscape:export-filename="../res/drawable-xhdpi/ic_ab_back_nokia_light.png"
+   sodipodi:docname="ic_ab_back_nokia_light_narrow.svg"
+   inkscape:export-filename="../res/drawable-xhdpi/ic_ab_back_nokia_light_narrow.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,7 +83,7 @@
        inkscape:transform-center-y="7.4246162" />
     <path
        style="fill:#585858;fill-opacity:1;stroke:none"
-       d="m 39.421875,1002.0199 c -0.894667,0 -1.78321,0.3457 -2.46875,1.0312 l -14.84375,14.8438 c -1.37108,1.3711 -1.37108,3.5664 0,4.9375 l 14.84375,14.8438 c 1.37108,1.371 3.56642,1.371 4.9375,0 1.37108,-1.3711 1.37108,-3.5665 0,-4.9375 l -12.375,-12.3751 12.375,-12.375 c 1.37108,-1.371 1.37108,-3.5664 0,-4.9375 -0.68554,-0.6855 -1.574083,-1.0312 -2.46875,-1.0312 z"
+       d="m 23.421875,1002.0199 c -0.894667,0 -1.78321,0.3457 -2.46875,1.0312 l -14.84375,14.8438 c -1.37108,1.3711 -1.37108,3.5664 0,4.9375 l 14.84375,14.8438 c 1.37108,1.371 3.56642,1.371 4.9375,0 1.37108,-1.3711 1.37108,-3.5665 0,-4.9375 l -12.375,-12.3751 12.375,-12.375 c 1.37108,-1.371 1.37108,-3.5664 0,-4.9375 -0.68554,-0.6855 -1.574083,-1.0312 -2.46875,-1.0312 z"
        id="rect2985-0-79"
        inkscape:connector-curvature="0" />
   </g>
