@@ -21,6 +21,9 @@
         <item name="android:windowBackground">@android:color/white</item>
         <!-- Set custom ListView theme. -->
         <item name="android:listViewStyle">@style/AppTheme.Nokia.Light.ListView</item>
+        <!-- Use custom overflow icon. -->
+        <item name="android:actionOverflowButtonStyle">@style/AppTheme.Nokia.ActionButton.Overflow</item>
+        <item name="actionOverflowButtonStyle">@style/AppTheme.Nokia.ActionButton.Overflow</item>
     </style>
     
     <!-- Custom ActionBar theme. -->
@@ -30,10 +33,10 @@
         <item name="icon">@android:color/transparent</item>
         <!-- Set backgrounds for the action bar, tabs and bottom action bar. -->
         <item name="android:background">#000</item>
-        <item name="android:backgroundStacked">#222</item>
-        <item name="android:backgroundSplit">#222</item>
-        <item name="backgroundStacked">#222</item>
-        <item name="backgroundSplit">#222</item>
+        <item name="android:backgroundStacked">#323232</item>
+        <item name="android:backgroundSplit">#323232</item>
+        <item name="backgroundStacked">#323232</item>
+        <item name="backgroundSplit">#323232</item>
         <!-- Set color for title text. -->
         <item name="android:titleTextStyle">@style/AppTheme.Nokia.ActionBar.TitleTextStyle</item>
         <item name="android:subtitleTextStyle">@style/AppTheme.Nokia.ActionBar.SubtitleTextStyle</item>

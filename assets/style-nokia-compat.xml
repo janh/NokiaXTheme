@@ -19,6 +19,9 @@
         <item name="android:windowBackground">@android:color/black</item>
         <!-- Set custom ListView theme. -->
         <item name="android:listViewStyle">@style/AppTheme.Nokia.ListView</item>
+        <!-- Use custom overflow icon. -->
+        <item name="android:actionOverflowButtonStyle">@style/AppTheme.Nokia.ActionButton.Overflow</item>
+        <item name="actionOverflowButtonStyle">@style/AppTheme.Nokia.ActionButton.Overflow</item>
     </style>
     
     <!-- Custom ActionBar theme.  -->
@@ -28,10 +31,10 @@
         <item name="icon">@android:color/transparent</item>
         <!-- Set backgrounds for the action bar, tabs and bottom action bar. -->
         <item name="android:background">#000</item>
-        <item name="android:backgroundStacked">#222</item>
-        <item name="android:backgroundSplit">#222</item>
-        <item name="backgroundStacked">#222</item>
-        <item name="backgroundSplit">#222</item>
+        <item name="android:backgroundStacked">#323232</item>
+        <item name="android:backgroundSplit">#323232</item>
+        <item name="backgroundStacked">#323232</item>
+        <item name="backgroundSplit">#323232</item>
         <!-- Set color for title text. -->
         <item name="android:titleTextStyle">@style/AppTheme.Nokia.ActionBar.TitleTextStyle</item>
         <item name="android:subtitleTextStyle">@style/AppTheme.Nokia.ActionBar.SubtitleTextStyle</item>
@@ -42,6 +45,7 @@
     <!-- Title text theme. -->
     <style name="AppTheme.Nokia.ActionBar.TitleTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
         <item name="android:textColor">@android:color/holo_blue_light</item>
+        <item name="android:textSize">24sp</item>
     </style>
     <style name="AppTheme.Nokia.ActionBar.SubtitleTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle">
         <item name="android:textColor">@android:color/holo_blue_light</item>
@@ -63,14 +67,19 @@
     </style>
     <!-- Define tab colors. -->
     <color name="ab_tab_bg_nokia_dark">#00000000</color>
-    <color name="ab_tab_bg_selected_nokia_dark">#1a1a1a</color>
-    <color name="ab_tab_bg_pressed_nokia_dark">#333</color>
-    <color name="ab_tab_bg_focused_nokia_dark">#444</color>
+    <color name="ab_tab_bg_selected_nokia_dark">#1e1e1e</color>
+    <color name="ab_tab_bg_pressed_nokia_dark">#222</color>
+    <color name="ab_tab_bg_focused_nokia_dark">#3a3a3a</color>
     
     <!-- ListView theme. -->
     <style name="AppTheme.Nokia.ListView" parent="@android:style/Widget.Holo.ListView">
         <!-- Disable list divider. -->
         <item name="android:divider">@null</item>
     </style>
+    
+    <!-- Overflow button style. -->
+    <style name="AppTheme.Nokia.ActionButton.Overflow" parent="@style/Widget.AppCompat.ActionButton.Overflow">
+	    <item name="android:src">@drawable/ic_ab_overflow_nokia_dark</item>
+	</style>
 
 </resources>
