@@ -16,6 +16,8 @@
         <item name="android:windowBackground">@android:color/white</item>
         <!-- Set custom ListView theme. -->
         <item name="android:listViewStyle">@style/AppTheme.Nokia.Light.ListView</item>
+        <!-- Use custom overflow icon. -->
+        <item name="android:actionOverflowButtonStyle">@style/AppTheme.Nokia.Light.ActionButton.Overflow</item>
     </style>
     
     <!-- Custom ActionBar theme. -->
@@ -64,5 +66,10 @@
         <!-- Disable list divider. -->
         <item name="android:divider">@null</item>
     </style>
+    
+    <!-- Overflow button style. -->
+    <style name="AppTheme.Nokia.Light.ActionButton.Overflow" parent="@android:style/Widget.Holo.Light.ActionButton.Overflow">
+	    <item name="android:src">@drawable/ic_ab_overflow_nokia_light</item>
+	</style>
 
 </resources>

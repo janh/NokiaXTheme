@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ic_ab_overflow_nokia_light.svg"
+   inkscape:export-filename="../res/drawable-xhdpi/ic_ab_overflow_nokia_light.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="40.435899"
+     inkscape:cy="40.914754"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1871"
+     inkscape:window-height="1056"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36218)">
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.65;fill:#585858;stroke:none;fill-opacity:1"
+       id="path2996"
+       sodipodi:cx="32.198612"
+       sodipodi:cy="17.154175"
+       sodipodi:rx="4.2931485"
+       sodipodi:ry="4.1668792"
+       d="m 36.491761,17.154175 c 0,2.301304 -1.922108,4.166879 -4.293149,4.166879 -2.37104,0 -4.293148,-1.865575 -4.293148,-4.166879 0,-2.301304 1.922108,-4.166879 4.293148,-4.166879 2.371041,0 4.293149,1.865575 4.293149,4.166879 z"
+       transform="matrix(1.1646464,0,0,1.1999388,-5.499998,984.77822)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.65;fill:#585858;stroke:none;fill-opacity:1"
+       id="path2996-1"
+       sodipodi:cx="32.198612"
+       sodipodi:cy="17.154175"
+       sodipodi:rx="4.2931485"
+       sodipodi:ry="4.1668792"
+       d="m 36.491761,17.154175 c 0,2.301304 -1.922108,4.166879 -4.293149,4.166879 -2.37104,0 -4.293148,-1.865575 -4.293148,-4.166879 0,-2.301304 1.922108,-4.166879 4.293148,-4.166879 2.371041,0 4.293149,1.865575 4.293149,4.166879 z"
+       transform="matrix(1.1646464,0,0,1.1999388,-5.4999978,999.77822)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#585858;stroke:none;fill-opacity:1;opacity:0.65"
+       id="path2996-2"
+       sodipodi:cx="32.198612"
+       sodipodi:cy="17.154175"
+       sodipodi:rx="4.2931485"
+       sodipodi:ry="4.1668792"
+       d="m 36.491761,17.154175 c 0,2.301304 -1.922108,4.166879 -4.293149,4.166879 -2.37104,0 -4.293148,-1.865575 -4.293148,-4.166879 0,-2.301304 1.922108,-4.166879 4.293148,-4.166879 2.371041,0 4.293149,1.865575 4.293149,4.166879 z"
+       transform="matrix(1.1646464,0,0,1.1999388,-5.4999978,1014.7782)" />
+  </g>
+</svg>

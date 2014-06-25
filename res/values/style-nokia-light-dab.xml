@@ -16,6 +16,8 @@
         <item name="android:windowBackground">@android:color/white</item>
         <!-- Set custom ListView theme. -->
         <item name="android:listViewStyle">@style/AppTheme.Nokia.Light.ListView</item>
+        <!-- Use custom overflow icon. -->
+        <item name="android:actionOverflowButtonStyle">@style/AppTheme.Nokia.ActionButton.Overflow</item>
     </style>
     
     <!-- Custom ActionBar theme. -->
