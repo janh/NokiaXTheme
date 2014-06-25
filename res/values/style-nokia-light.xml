@@ -24,8 +24,8 @@
         <item name="android:icon">@android:color/transparent</item>
         <!-- Set backgrounds for the action bar, tabs and bottom action bar. -->
         <item name="android:background">#fff</item>
-        <item name="android:backgroundStacked">#eee</item>
-        <item name="android:backgroundSplit">#eee</item>
+        <item name="android:backgroundStacked">#ececec</item>
+        <item name="android:backgroundSplit">#ececec</item>
         <!-- Set color for title text. -->
         <item name="android:titleTextStyle">@style/AppTheme.Nokia.Light.ActionBar.TitleTextStyle</item>
         <item name="android:subtitleTextStyle">@style/AppTheme.Nokia.Light.ActionBar.SubtitleTextStyle</item>
@@ -54,9 +54,9 @@
     </style>
     <!-- Define tab colors. -->
     <color name="ab_tab_bg_nokia_light">#00000000</color>
-    <color name="ab_tab_bg_selected_nokia_light">#f4f4f4</color>
+    <color name="ab_tab_bg_selected_nokia_light">#d7d7d7</color>
     <color name="ab_tab_bg_pressed_nokia_light">#ddd</color>
-    <color name="ab_tab_bg_focused_nokia_light">#ccc</color>
+    <color name="ab_tab_bg_focused_nokia_light">#f0f0f0</color>
     
     <!-- ListView theme. -->
     <style name="AppTheme.Nokia.Light.ListView" parent="@android:style/Widget.Holo.Light.ListView">
